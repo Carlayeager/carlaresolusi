@@ -3,7 +3,10 @@ Rencana konten wpu
 -java script
 *E56
 *framework javascript
+-viue
 -struktur data dasar
 -php frameworks
+-taravel
 -interview
 -vlogs
+-pyhton
