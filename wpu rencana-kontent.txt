@@ -7,7 +7,7 @@ Rencana konten wpu
 -react
 -struktur data dasar
 -php frameworks
--taravel
+^Laravel
 -interview
 -vlogs
 -pyhton
