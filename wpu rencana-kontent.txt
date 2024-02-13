@@ -1,13 +1,14 @@
-Rencana konten wpu
+- RENCANA KONTEN WPU
 
--java script
-*E56
-*framework javascript
--vue
--react
--struktur data dasar
--php frameworks
-^Laravel
--interview
--vlogs
--pyhton
+- javascript
+  * E56
+  * Framework javascript
+    -vue
+    -react
+    -angular
+- struktur data dasar
+- PHP Prameworks
+  laravel
+- Interview
+- Vlogs
+python
